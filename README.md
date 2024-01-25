@@ -1,1 +1,1 @@
-# vs-code-config-JSON-
+# My configs
