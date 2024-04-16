@@ -25,8 +25,22 @@
         "editorWidget.background": "#51586320", //widget and tooltip
         "quickInput.background": "#2e333b00", //command center drop down menu
         "notifications.background": "#29303bd7", //Notification background color.
+
+    "terminal.integrated.fontSize": 14,
+        "editor.tabSize": 2,
+        "editor.detectIndentation": false,
+        "workbench.layoutControl.enabled": false,
+        "window.commandCenter": false,
+        "window.titleBarStyle": "native",
+        "terminal.integrated.env.linux": {},
+
     },
+    
     "workbench.activityBar.location": "top",
     "workbench.editor.showTabs": "multiple",
     "workbench.editor.editorActionsLocation": "titleBar",
     "tabnine.experimentalAutoImports": true
+
+    
+
+    
